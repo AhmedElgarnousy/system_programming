@@ -1,0 +1,5 @@
+#!bash
+
+ls
+
+pwd
